@@ -8,6 +8,9 @@ Link: https://www.coursera.org/specializations/deep-learning
 
 
 ### 1 Neural Networks and Deep Learning 
+
+Course certificate : https://www.coursera.org/account/accomplishments/certificate/AWZ3CF59XU3D
+
 ### 2 Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
 ### 3 Structuring Machine Learning Projects
 ### 4 Convolutional Neural Networks
