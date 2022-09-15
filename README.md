@@ -26,3 +26,5 @@ Course certificate : https://www.coursera.org/account/accomplishments/certificat
 ### 5 Sequence Models 
 
 Course certificate : https://www.coursera.org/account/accomplishments/certificate/E5V8K4HQ5QXR
+
+### Specialization certificate : https://www.coursera.org/account/accomplishments/specialization/certificate/YR5TS33HRUEU
