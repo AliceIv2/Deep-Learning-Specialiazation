@@ -20,4 +20,9 @@ Course certificate : https://www.coursera.org/account/accomplishments/certificat
 Course certificate : https://www.coursera.org/account/accomplishments/certificate/HPTJP8G2R2YX
 
 ### 4 Convolutional Neural Networks
+
+Course certificate : https://www.coursera.org/account/accomplishments/certificate/9L55LUK9N8HX
+
 ### 5 Sequence Models 
+
+Course certificate : https://www.coursera.org/account/accomplishments/certificate/E5V8K4HQ5QXR
